@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="unit3_exercises" type="example_video.py" name="hector_test"  output="screen">
+  </node>
+</launch>

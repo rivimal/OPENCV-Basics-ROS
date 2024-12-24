@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="project" type="project_artag.py" name="load_image_node"  output="screen">
+  </node>
+</launch>
+

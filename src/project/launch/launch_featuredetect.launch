@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="project" type="project_featuredetect.py" name="load_image_node"  output="screen">
+  </node>
+</launch>

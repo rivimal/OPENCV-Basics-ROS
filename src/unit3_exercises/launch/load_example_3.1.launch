@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="unit3_exercises" type="example_3.1.py" name="load_image_node"  output="screen">
+  </node>
+</launch>

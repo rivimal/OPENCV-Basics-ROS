@@ -1,0 +1,7 @@
+
+<launch>
+  <node pkg="unit3_exercises" type="flying_drone3_2.py" name="hector_test"  output="screen">
+  </node>
+  <node pkg="unit3_exercises" type="exercise3_7.py" name="load_image_node"  output="screen">
+  </node>
+</launch>
